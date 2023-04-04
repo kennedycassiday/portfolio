@@ -102,11 +102,14 @@ const skills = {
   heading: "Skills",
   hardSkills: [
     { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
+    { name: "PostgreSQL", value: 75 },
+    // { name: "Data Structures", value: 85 },
     { name: "JavaScript", value: 90 },
     { name: "React", value: 65 },
     { name: "HTML/CSS", value: 55 },
+    { name: "Docker", value: 90 },
+    { name: "Django", value: 85 },
+    { name: "FastAPI", value: 80 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
@@ -125,7 +128,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "I'm currently looking for full-time Software Engineering opportunities! If you know of any positions available, have any questions, or just want to say hi, please email me at",
   email: "kennedycodes@gmail.com",
 };
 

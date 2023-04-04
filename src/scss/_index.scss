@@ -111,21 +111,32 @@ code {
 }
 .skills-tabs {
   flex-grow: 1;
+  color: rgb(232, 34, 143);
 }
 .skills-tab {
   flex-grow: 1;
   text-align: center;
+  color: rgb(232, 34, 143);
+  font-weight: bold;
 }
 
 .progress {
   transform-origin: left;
   & > * {
     transform: scaleX(0);
+    background-color: rgb(232, 34, 143);
   }
 }
 .progress-bar-animation {
   @extend .progress;
   & > * {
     animation: progress 1.5s ease-in-out forwards;
-  }
+    // background-color: rgb(255, 204, 255);
+    background-color: rgb(232, 34, 143);
+  };
+}
+
+#button {
+  text-decoration: underline;
+
 }
