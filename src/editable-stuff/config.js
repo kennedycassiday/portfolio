@@ -12,14 +12,14 @@ const mainBody = {
   message: " Solving complex problems with elegant code. ",
   // " Passionate about changing the world with technology. "
   icons: [
-    // {
-    //   image: "fa-github",
-    //   url: "https://github.com/kennedycassiday",
-    // },
     {
-      image: "fa-gitlab",
-      url: "https://gitlab.com/kennedycassiday",
+      image: "fa-github",
+      url: "https://github.com/kennedycassiday",
     },
+    // {
+    //   image: "fa-gitlab",
+    //   url: "https://gitlab.com/kennedycassiday",
+    // },
     {
       image: "fa-instagram",
       url: "https://www.instagram.com/kennedycodes/",
