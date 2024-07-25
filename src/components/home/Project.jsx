@@ -36,8 +36,8 @@ const Project = () => {
             <Card.Text>
             Python · JavaScript · React.js · Bootstrap · Git · Object-Oriented Programming · FastAPI · PostgreSQL · CI/CD
             </Card.Text>
-            {/* <Button id="button" variant="primary.hover" href="https://munchbunch.gitlab.io/munch/">Live Demo</Button>
-            {"  "} */}
+            <Button id="button" variant="primary.hover" href="https://munchbunch.gitlab.io/munch/">Live Demo</Button>
+            {"  "}
             <Button id="button" variant="primary.hover" href="https://gitlab.com/munchbunch/munch">Repo</Button>
           </Card.Body>
         </Card>
